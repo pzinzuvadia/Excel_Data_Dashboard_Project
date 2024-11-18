@@ -33,18 +33,6 @@ The dataset includes the following columns:
 
 ---
 
-## How to Use
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   ```
-2. **Access the Dataset**:
-   Open the file `Excel+Report+1+Data.xlsx` to explore the raw data in the `Data` sheet.
-3. **View the Dashboard**:
-   Open the `Dashboard` sheet within the Excel file to view visualizations summarizing key insights.
-
----
-
 ## Visualizations
 The dashboard includes:
 - Bar charts for revenue and profit comparison.
@@ -56,8 +44,3 @@ The dashboard includes:
 
 ## Contributing
 Feel free to raise issues or submit pull requests for improvements or additional features.
-
----
-
-## License
-This project is released under the [MIT License](LICENSE).
