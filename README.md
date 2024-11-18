@@ -40,7 +40,10 @@ The dashboard includes:
 - Line charts for time-based trends.
 - Heatmaps for customer segmentation analysis.
 
+![Dashboard Overview](Dashboard_Image.png)
+
 ---
+
 
 ## Contributing
 Feel free to raise issues or submit pull requests for improvements or additional features.
